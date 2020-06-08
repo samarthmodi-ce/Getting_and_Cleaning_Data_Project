@@ -9,11 +9,11 @@ Author : Samarth Modi
 3. A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 4. Analysis R Script
 
-#run_Analysis.R:
+# run_Analysis.R:
 This file includes source of the R script that has to be run.
 
-#CodeBook.md
+# CodeBook.md
 This FIle contains the data source information that is to be used.
 
-#tidyData.txt
+# tidyData.txt
 This File containes tidy data set after completion of all operations.
